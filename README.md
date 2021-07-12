@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @Koshcher
 - 🌱 I’m currently learning C++
-- 📫 How to reach me: romankoshchey@gmial.com
+- 📫 How to reach me: romankoshchey@gmail.com
