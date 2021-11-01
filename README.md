@@ -1,4 +1,4 @@
-# Hey, I'm koshcher 👋
+# Hey, I'm koshcher
 I created the [Koshak keyboard layout](https://koshcher.github.io/koshak-layout), now I am working on [LCA-layouts](https://github.com/Koshcher/LCA-layouts)
 - 📘 I’m currently learning C++, C#
 - 💻 I use Windows 10, Visual Studio 
