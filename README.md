@@ -1,5 +1,5 @@
 # Hey, I'm koshcher
-I created the [Koshak keyboard layout](https://koshcher.github.io/koshak-layout), now I am working on [LCA-layouts](https://github.com/Koshcher/LCA-layouts)
+I created the [Koshak keyboard layout](https://koshcher.github.io/koshak-layout), now I am working on [LETA](https://github.com/Koshcher/LETA)
 - 📘 I’m currently learning C++, C#
 - 💻 I use Windows 10, Visual Studio 
 - 📫 If you want to contact me, feel free to message Koshcher#7607 on Discord or romankoshchey@gmail.com on Gmail
