@@ -28,7 +28,8 @@ I created the [Koshak keyboard layout](https://koshcher.github.io/koshak-layout)
 - How to reach me **romankoshchey@gmial.com**
 
 <h3 align="left">Contact Information:</h3>
--  Email - romankoshchey@gmail.com
+
+- Email - romankoshchey@gmail.com
 
 - Discord - Koshcher#7607
 
