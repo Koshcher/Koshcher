@@ -24,13 +24,15 @@ I created the [Koshak keyboard layout](https://koshcher.github.io/koshak-layout)
 - I’m currently working on [LETA](https://github.com/Koshcher/LETA)
 
 - I’m currently learning **c#, wxWidgets**
-- 
+
 - How to reach me **romankoshchey@gmial.com**
 
 <h3 align="left">Contact Information:</h3>
-  - Email - romankoshchey@gmail.com
-  - Discord - Koshcher#7607
-  - LinkedIn - https://www.linkedin.com/in/roman-koshchey-0a7a03223/
+-  Email - romankoshchey@gmail.com
+
+- Discord - Koshcher#7607
+
+- LinkedIn - https://www.linkedin.com/in/roman-koshchey-0a7a03223/
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
