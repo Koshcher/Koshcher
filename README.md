@@ -1,6 +1,6 @@
 # Hey, I'm koshcher
 I created the [Koshak keyboard layout](https://koshcher.github.io/koshak-layout), now I am working on [LETA](https://github.com/Koshcher/LETA)
-- I use Windows 10, Visual Studio 
+- I use Windows 10, Visual Studio, JetBrains Tools
 
 **Languages and Stats:**
 
