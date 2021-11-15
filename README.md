@@ -9,10 +9,5 @@ I created the [Koshak keyboard layout](https://koshcher.github.io/koshak-layout)
 
 **Languages and Tools:**
 
-`c++`
-`wxwidgets`
-`c#`
-
-
 | ![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Koshcher&show_icons=true&theme=gotham) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koshcher&theme=gotham&layout=compact) |
 | ------------- | ------------- |
