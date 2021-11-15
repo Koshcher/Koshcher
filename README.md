@@ -9,3 +9,4 @@ I created the [Koshak keyboard layout](https://koshcher.github.io/koshak-layout)
 - LinkedIn - https://www.linkedin.com/in/roman-koshchey-0a7a03223/
 
 ![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Koshcher&show_icons=true&theme=gotham)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koshcher&theme=gotham&layout=compact)
