@@ -27,8 +27,11 @@ I created the [Koshak keyboard layout](https://koshcher.github.io/koshak-layout)
 - 
 - How to reach me **romankoshchey@gmial.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contact Information:</h3>
 <p align="left">
+  - Email - romankoshchey@gmail.com
+  - Discord - Koshcher#7607
+  - LinkedIn - https://www.linkedin.com/in/roman-koshchey-0a7a03223/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
