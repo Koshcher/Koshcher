@@ -9,6 +9,8 @@ I created the [Koshak keyboard layout](https://koshcher.github.io/koshak-layout)
 - LinkedIn - https://www.linkedin.com/in/roman-koshchey-0a7a03223/
 
 **Languages and Tools:**
+
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 
 | ![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Koshcher&show_icons=true&theme=gotham) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koshcher&theme=gotham&layout=compact) |
