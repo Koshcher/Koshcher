@@ -21,13 +21,11 @@ I created the [Koshak keyboard layout](https://koshcher.github.io/koshak-layout)
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on [LETA](https://github.com/Koshcher/LETA)
+- I’m currently working on [LETA](https://github.com/Koshcher/LETA)
 
-- 🌱 I’m currently learning **c#, wxWidgets**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Koshcher](https://github.com/Koshcher)
-
-- 📫 How to reach me **romankoshchey@gmial.com**
+- I’m currently learning **c#, wxWidgets**
+- 
+- How to reach me **romankoshchey@gmial.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
