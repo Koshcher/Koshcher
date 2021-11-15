@@ -4,7 +4,7 @@ I created the [Koshak keyboard layout](https://koshcher.github.io/koshak-layout)
 
 **Languages and Stats:**
 
-| ![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Koshcher&show_icons=true) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koshcher&theme=gotham&layout=compact) |
+| ![Ashkan's github stats](https://github-readme-stats.vercel.app/api?username=Koshcher&show_icons=true&theme=onedark) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Koshcher&theme=gotham&layout=compact) |
 | ------------- | ------------- |
 
 ## Contact Information
