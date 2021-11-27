@@ -7,8 +7,6 @@
 
 - I’m currently learning **c#, wxWidgets**
 
-- How to reach me **romankoshchey@gmial.com**
-
 <h3 align="left">Contact Information:</h3>
 
 - Email - romankoshchey@gmail.com
