@@ -25,3 +25,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=koshcher&show_icons=true&locale=en&theme=dracula" alt="koshcher" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koshcher&theme=dracula" alt="koshcher" /></p>
+
+
+![](https://github.com/jstrieb/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/jstrieb/github-stats/blob/master/generated/languages.svg)
