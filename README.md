@@ -22,4 +22,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=koshcher&show_icons=true&locale=en&layout=compact&theme=dracula" alt="koshcher" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koshcher&theme=dracula" alt="koshcher" /></p>
+<p  align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=koshcher&theme=dracula" alt="koshcher" /></p>
