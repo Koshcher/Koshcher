@@ -7,12 +7,8 @@
 
 - I’m currently learning **c#, wxWidgets**
 
-### Contact Information:
+-  How to reach me **romankoshchey@gmial.com**
 
-- Email - romankoshchey@gmail.com
-- Discord - Koshcher#7607
-- LinkedIn - https://www.linkedin.com/in/roman-koshchey-0a7a03223/
-- 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/roman-koshchey-0a7a03223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zvv" height="30" width="40" /></a>
