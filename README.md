@@ -11,14 +11,17 @@
 -  How to reach me **romankoshchey@gmail.com**
 
 ## Languages and Tools
-| <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> | ![stats](https://github-readme-stats.vercel.app/api/top-langs?username=koshcher&show_icons=true&locale=en&layout=compact&theme=dracula) |
-| :---:          |        :---: |
+[![C++](https://img.shields.io/badge/-C++-2c2c2c?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)](https://www.cplusplus.com/) 
+[![.Net](https://img.shields.io/badge/-Framework-2c2c2c?style=for-the-badge&logo=.net&logoColor=E5D3FF)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+[![.Net](https://img.shields.io/badge/-wxWidgets-2c2c2c?style=for-the-badge)](https://www.wxwidgets.org/)
 
+![stats](https://github-readme-stats.vercel.app/api/top-langs?username=koshcher&show_icons=true&locale=en&layout=compact&theme=dracula)
+
+
+## Follow Me
+[![YouTube](https://img.shields.io/badge/-YouTube-2c2c2c?style=for-the-badge&logo=YouTube&logoColor=F76060)](https://www.youtube.com/channel/UC76gVI16vbdC1Bwa87bECyw)
+[![Instagram](https://img.shields.io/badge/-Instagram-2c2c2c?style=for-the-badge&logo=instagram&logoColor=F754E2)](https://www.instagram.com/koshchey_sw/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-2c2c2c?style=for-the-badge&logo=linkedin&logoColor=6296CC)](https://www.linkedin.com/in/roman-koshchey-0a7a03223/)
+[![Discord](https://img.shields.io/badge/-Discord-2c2c2c?style=for-the-badge&logo=Discord&logoColor=6079F7)](https://discord.com/users/Koshcher#7607)
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=koshcher&theme=dracula)
-
-## Connect with me:
-<a href="https://www.linkedin.com/in/roman-koshchey-0a7a03223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zvv" height="30" width="40" /></a>
-<a href="https://www.instagram.com/koshchey_sw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vcx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UC76gVI16vbdC1Bwa87bECyw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vcxz" height="30" width="40" /></a>
-<a href="https://discord.com/users/Koshcher#7607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vc" height="30" width="40" /></a>  
