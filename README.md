@@ -13,7 +13,7 @@
 [![.Net](https://img.shields.io/badge/-Framework-2c2c2c?style=for-the-badge&logo=.net&logoColor=E5D3FF)](https://docs.microsoft.com/en-us/dotnet/csharp/)
 [![.Net](https://img.shields.io/badge/-wxWidgets-2c2c2c?style=for-the-badge)](https://www.wxwidgets.org/)
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs?username=koshcher&bg_color=30,bae7ec,eceda2&title_color=303030&text_color=303030&show_icons=true&locale=en)
+![stats](https://github-readme-stats.vercel.app/api/top-langs?username=koshcher&bg_color=30,bae7ec,eceda2&title_color=303030&text_color=303030&show_icons=true&locale=en&layout=compact)
 ![stats](https://github-readme-stats.vercel.app/api/top-langs?username=koshcher&show_icons=true&locale=en&layout=compact&theme=dracula)
 
 ## Follow Me
