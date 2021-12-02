@@ -23,3 +23,4 @@
 [![Discord](https://img.shields.io/badge/-Discord-2c2c2c?style=for-the-badge&logo=Discord&logoColor=6079F7)](https://discord.com/users/Koshcher#7607)
 
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=koshcher&theme=dracula)
+![streak](https://github-readme-streak-stats.herokuapp.com/?user=koshcher&bg_color=30,bae7ec,eceda2&title_color=fff&text_color=fff)
