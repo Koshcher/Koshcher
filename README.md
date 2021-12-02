@@ -2,8 +2,6 @@
 
 ## A junior software developer from Ukraine
 
-![Profile views](https://komarev.com/ghpvc/?username=koshcher&label=Profile%20views&color=0e75b6&style=flat)
-
 - I’m currently working on [LETA](https://github.com/Koshcher/LETA)
 
 - I’m currently learning **c#, wxWidgets**
