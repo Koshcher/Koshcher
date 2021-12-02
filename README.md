@@ -7,12 +7,10 @@
 
 - I’m currently learning **c#, wxWidgets**
 
-<h3 align="left">Contact Information:</h3>
+### Contact Information:
 
 - Email - romankoshchey@gmail.com
-
 - Discord - Koshcher#7607
-
 - LinkedIn - https://www.linkedin.com/in/roman-koshchey-0a7a03223/
 
 <h3 align="left">Languages and Tools:</h3>
