@@ -15,10 +15,10 @@
 - 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/zvv" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zvv" height="30" width="40" /></a>
-<a href="https://instagram.com/vcx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vcx" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/vcxz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vcxz" height="30" width="40" /></a>
-<a href="https://discord.gg/vc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vc" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/roman-koshchey-0a7a03223/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="zvv" height="30" width="40" /></a>
+<a href="https://www.instagram.com/koshchey_sw/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="vcx" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UC76gVI16vbdC1Bwa87bECyw target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="vcxz" height="30" width="40" /></a>
+<a href="https://discord.com/users/Koshcher#7607" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="vc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
