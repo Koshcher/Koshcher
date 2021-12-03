@@ -2,7 +2,7 @@
 
 ## A junior software developer from Ukraine
 
-- I’m currently working on [LETA](https://github.com/Koshcher/LETA)
+- I’m currently working on **[LETA](https://github.com/Koshcher/LETA)**
 
 - I’m currently learning **c#, wxWidgets**
 
