@@ -1,6 +1,4 @@
-![Header](assets/header.png)
-
-## A junior software developer from Ukraine
+#  What's up
 
 - I’m currently working on **[LETA](https://github.com/Koshcher/LETA)**
 
@@ -9,8 +7,9 @@
 -  How to reach me **romankoshchey@gmail.com**
 
 ## Languages and Tools
-[![C++](https://img.shields.io/badge/-C++-2c2c2c?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)](https://www.cplusplus.com/) 
-[![.Net](https://img.shields.io/badge/-Framework-2c2c2c?style=for-the-badge&logo=.net&logoColor=E5D3FF)](https://docs.microsoft.com/en-us/dotnet/csharp/)
+![Visual Studio](https://img.shields.io/badge/-Vs-2c2c2c?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)
+![C++](https://img.shields.io/badge/-C++-2c2c2c?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![.Net](https://img.shields.io/badge/-Framework-2c2c2c?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 
 ![stats](https://github-readme-stats.vercel.app/api/top-langs?username=koshcher&show_icons=true&locale=en&layout=compact&theme=onedark&text_color=8cb172)
 
