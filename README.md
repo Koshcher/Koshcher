@@ -11,7 +11,11 @@
 ![C++](https://img.shields.io/badge/-C++-2c2c2c?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
 ![.Net](https://img.shields.io/badge/-Framework-2c2c2c?style=for-the-badge&logo=.net&logoColor=E5D3FF)
 
-![stats](https://github-readme-stats.vercel.app/api/top-langs?username=koshcher&show_icons=true&locale=en&layout=compact&theme=onedark&text_color=8cb172)
+<table>
+  <th>![stats](https://github-readme-stats.vercel.app/api/top-langs?username=koshcher&show_icons=true&locale=en&layout=compact&theme=onedark&text_color=8cb172)</th>
+  <th></th>
+</table>
+
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=koshcher&theme=onedark)
 
 ## Follow Me
