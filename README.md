@@ -2,7 +2,7 @@
 
 - I’m currently working on **[aklhub](https://github.com/Koshcher/aklhub)**
 
-- I’m currently learning **c#, ASP.NET MVC**
+- I’m currently learning **asp.net core mvc**
 
 -  How to reach me **romankoshchey@gmail.com**
 
