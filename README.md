@@ -1,7 +1,5 @@
 #  What's up? 
-![langs](https://github-readme-stats.vercel.app/api/top-langs?username=koshcher&show_icons=true&locale=en&layout=compact&theme=onedark&text_color=8cb172)
-![stats](https://github-readme-stats.vercel.app/api?username=koshcher&show_icons=true)
-![streak](https://github-readme-streak-stats.herokuapp.com/?user=koshcher&theme=onedark)
+![langs](https://github-readme-stats.vercel.app/api/top-langs?username=koshcher&show_icons=true&locale=en&layout=compact&theme=nord)
 
 ## Follow Me
 [![YouTube](https://img.shields.io/badge/-YouTube-2c2c2c?style=for-the-badge&logo=YouTube&logoColor=F76060)](https://www.youtube.com/channel/UC76gVI16vbdC1Bwa87bECyw)
