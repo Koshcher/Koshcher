@@ -1,17 +1,6 @@
-#  What's up
-
-- I’m currently working on **[aklhub](https://github.com/Koshcher/aklhub)**
-
-- I’m currently learning **asp.net core mvc**
-
--  How to reach me **romankoshchey@gmail.com**
-
-## Languages and Tools
-![Visual Studio](https://img.shields.io/badge/-Vs-2c2c2c?style=for-the-badge&logo=visual-studio&logoColor=5C2D91)
-![C++](https://img.shields.io/badge/-C++-2c2c2c?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
-![.Net](https://img.shields.io/badge/-Framework-2c2c2c?style=for-the-badge&logo=.net&logoColor=E5D3FF)
-
-![stats](https://github-readme-stats.vercel.app/api/top-langs?username=koshcher&show_icons=true&locale=en&layout=compact&theme=onedark&text_color=8cb172)
+#  What's up? 
+![langs](https://github-readme-stats.vercel.app/api/top-langs?username=koshcher&show_icons=true&locale=en&layout=compact&theme=onedark&text_color=8cb172)
+![stats](https://github-readme-stats.vercel.app/api?username=koshcher&show_icons=true)
 ![streak](https://github-readme-streak-stats.herokuapp.com/?user=koshcher&theme=onedark)
 
 ## Follow Me
