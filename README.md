@@ -1,7 +1,7 @@
 #  What's up? 
 
 ## Awasome projects
-![LETA](https://github-readme-stats.vercel.app/api/pin/?username=koshcher&repo=LETA&theme=nord&hide_border=true)
+[![LETA](https://github-readme-stats.vercel.app/api/pin/?username=koshcher&repo=LETA&theme=nord&hide_border=true)](https://github.com/koshcher/LETA)
 
 
 ## Stats
