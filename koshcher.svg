@@ -1,0 +1,63 @@
+
+                <svg width='350' height='130' xmlns='http://www.w3.org/2000/svg'>
+                    
+                <style>
+                    text {
+                        fill: white;
+                        font-size: 12px;
+                        font-family: Arial;
+                        transform: translate(15px, 5px);
+                    }
+                    circle {
+                        r: 5px;
+                    }
+                    line {
+                        stroke-width: 10px;
+                    }
+                    .bar {
+                        transform: translate(0, 30px);
+                    }
+                    .persents {
+                        transform: translate(0, 60px);
+                    }
+                </style>
+            
+                    <rect width='350' height='130' fill='#2e3441' />
+                    <g class='bar'>
+                        <line x1='30' x2='176.41703506233344' stroke='#5ecc64' /><line x1='176.41703506233344' x2='217.23908785711512' stroke='#4F5D95' /><line x1='217.23908785711512' x2='254.03681350909966' stroke='#f34b7d' /><line x1='254.03681350909966' x2='282.07648058896507' stroke='#f1e05a' /><line x1='282.07648058896507' x2='303.89066239960516' stroke='#3178c6' /><line x1='303.89066239960516' x2='319.99999999999994' stroke='#2bb7f6' />
+                    </g>
+                    <g class='persents'>
+                        
+                <g transform='translate(35, 0)'>
+                    <circle fill='#5ecc64'/>
+                    <text>C# 50.49%</text>
+                </g>
+            
+                <g transform='translate(180, 0)'>
+                    <circle fill='#4F5D95'/>
+                    <text>PHP 14.08%</text>
+                </g>
+            
+                <g transform='translate(35, 20)'>
+                    <circle fill='#f34b7d'/>
+                    <text>C++ 12.69%</text>
+                </g>
+            
+                <g transform='translate(180, 20)'>
+                    <circle fill='#f1e05a'/>
+                    <text>JavaScript 9.67%</text>
+                </g>
+            
+                <g transform='translate(35, 40)'>
+                    <circle fill='#3178c6'/>
+                    <text>TypeScript 7.52%</text>
+                </g>
+            
+                <g transform='translate(180, 40)'>
+                    <circle fill='#2bb7f6'/>
+                    <text>Dart 5.55%</text>
+                </g>
+            
+                    </g>
+                </svg>
+            
